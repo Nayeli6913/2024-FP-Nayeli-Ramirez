@@ -8,7 +8,7 @@ temperaturas = [
             {"day": "Lunes", "temp": 65},
             {"day": "Martes", "temp": 67},
             {"day": "Miércoles", "temp": 70},
-            {"day": "Jueves", "temp": 68},
+            {"day": "Jue    ves", "temp": 68},
             {"day": "Viernes", "temp": 72},
             {"day": "Sábado", "temp": 75},
             {"day": "Domingo", "temp": 78}
