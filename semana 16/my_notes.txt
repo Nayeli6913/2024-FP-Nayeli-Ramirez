@@ -1,0 +1,4 @@
+Línea 1: Soy muy dicertida
+Línea 2: Amo el deporte
+Línea 3: Ver television me entretiene
+Línea 4: Nadar me relaja
